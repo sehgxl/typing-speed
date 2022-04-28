@@ -1,0 +1,25 @@
+html body{
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.typer{
+  width: 100%;
+  height: 50px;
+  font-size: 1.2em;
+}
+.btn{
+  width: 100%;
+  font-size: 2em;
+  padding: 10px;
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}
+.main{
+  text-align: center;
+  padding: 10px;
+  font-size: 1.5em;
+  font-weight: 1000;
+  border: 3px solid white;
+  border-radius: 8px;
+}
